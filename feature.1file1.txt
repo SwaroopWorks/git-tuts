@@ -1,3 +1,36 @@
 this is a feature.1file1.txt
 
 this was created in a new branch named feature-1
+
+Firstly, I created a new repository on Github by clicking on the "New" button on my Github homepage.
+I gave my repository a name "git-tuts", and made it public.
+
+Next, I cloned the repository to my local system by copying the repository's URL from Github 
+and using the "git clone" command in my terminal. 
+This allowed me to have a local copy of my repository to work with.
+
+
+Then, I opened my local code editor and created a new file "one.file.txt" in the main branch of my repository.
+and added some content to it.
+
+
+Once I had created my file, I used the "git add" command to stage my changes.
+This means I told Git which changes I wanted to include in my next commit.
+Then, I used the "git commit" command to commit my changes.
+Finally, I used the "git push" command to push my changes to the main branch on Github. 
+This made my changes visible in the remote repository on Github.
+
+
+After that, I created a new branch "feature-1" in my repository using the "git checkout" command.
+and in my new branch I described how i created a new branch in it and ...
+
+
+After making my changes, I used the "git add" command to stage my changes.
+Then, I used the "git commit" command. 
+At last, I used the "git push" command to push my changes to my new branch on Github. 
+
+This made my changes visible in the remote repository on Github, but only in the new branch I had created.
+
+
+
+
